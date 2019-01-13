@@ -1,0 +1,26 @@
+body {
+    background-color: gray;}
+
+
+    table {
+            border: 10px solid orange;
+            border-collapse: collapse;
+            background-color: white;
+            width: 300px;
+
+          }
+
+    td {
+          border: 1px solid black;
+          width: 60px;
+          height: 60px;
+          text-align: center;
+       }
+ button{
+     border: 12px solid saddlebrown;
+     border-collapse: collapse;
+     background-color: greenyellow;
+     border-radius : 12px;
+     width: 150px;
+
+ }
